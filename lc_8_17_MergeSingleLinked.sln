@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lc_8_17_MergeSingleLinked", "lc_8_17_MergeSingleLinked\lc_8_17_MergeSingleLinked.csproj", "{C970FFE1-0E70-450A-B9DC-BCA42CDC7010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C970FFE1-0E70-450A-B9DC-BCA42CDC7010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C970FFE1-0E70-450A-B9DC-BCA42CDC7010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C970FFE1-0E70-450A-B9DC-BCA42CDC7010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C970FFE1-0E70-450A-B9DC-BCA42CDC7010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE42EEED-B392-4ECA-8133-2224F6287A18}
+	EndGlobalSection
+EndGlobal
